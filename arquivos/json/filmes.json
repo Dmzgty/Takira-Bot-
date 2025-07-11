@@ -1,0 +1,670 @@
+[
+    {
+        "nome": "Vingadores: Ultimato",
+        "duracao": "3h 2min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.8/5",
+        "tema": "Ação, Super-Heróis"
+    },
+    {
+        "nome": "Interestelar",
+        "duracao": "2h 49min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.7/5",
+        "tema": "Ficção Científica, Drama"
+    },
+    {
+        "nome": "Coringa",
+        "duracao": "2h 2min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.6/5",
+        "tema": "Drama, Thriller"
+    },
+    {
+        "nome": "Avatar",
+        "duracao": "2h 42min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.5/5",
+        "tema": "Ficção Científica, Aventura"
+    },
+    {
+        "nome": "Toy Story",
+        "duracao": "1h 21min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.9/5",
+        "tema": "Animação, Família"
+    },
+    {
+        "nome": "Vingadores: Ultimato",
+        "duracao": "3h 2min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.8/5",
+        "tema": "Ação, Super-Heróis"
+    },
+    {
+        "nome": "Interestelar",
+        "duracao": "2h 49min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.7/5",
+        "tema": "Ficção Científica, Drama"
+    },
+    {
+        "nome": "Coringa",
+        "duracao": "2h 2min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.6/5",
+        "tema": "Drama, Thriller"
+    },
+    {
+        "nome": "Avatar",
+        "duracao": "2h 42min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.5/5",
+        "tema": "Ficção Científica, Aventura"
+    },
+    {
+        "nome": "Toy Story",
+        "duracao": "1h 21min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.9/5",
+        "tema": "Animação, Família"
+    },
+    {
+        "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+        "duracao": "2h 58min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.9/5",
+        "tema": "Fantasia, Aventura"
+    },
+    {
+        "nome": "Matrix",
+        "duracao": "2h 16min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.7/5",
+        "tema": "Ficção Científica, Ação"
+    },
+    {
+        "nome": "Pantera Negra",
+        "duracao": "2h 14min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.6/5",
+        "tema": "Ação, Super-Heróis"
+    },
+    {
+        "nome": "Homem-Aranha: Sem Volta Para Casa",
+        "duracao": "2h 28min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.7/5",
+        "tema": "Ação, Aventura"
+    },
+    {
+        "nome": "Doutor Estranho no Multiverso da Loucura",
+        "duracao": "2h 6min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.3/5",
+        "tema": "Fantasia, Super-Heróis"
+    },
+    {
+        "nome": "Top Gun: Maverick",
+        "duracao": "2h 11min",
+        "onde_assistir": "Paramount+",
+        "avaliacao": "4.8/5",
+        "tema": "Ação, Drama"
+    },
+    {
+        "nome": "It: A Coisa",
+        "duracao": "2h 15min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.2/5",
+        "tema": "Terror, Suspense"
+    },
+    {
+        "nome": "Titanic",
+        "duracao": "3h 15min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.7/5",
+        "tema": "Drama, Romance"
+    },
+    {
+        "nome": "A Freira",
+        "duracao": "1h 36min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "3.9/5",
+        "tema": "Terror, Mistério"
+    },
+    {
+        "nome": "Luca",
+        "duracao": "1h 36min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.5/5",
+        "tema": "Animação, Aventura"
+    },
+    {
+        "nome": "Moana",
+        "duracao": "1h 47min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.6/5",
+        "tema": "Animação, Aventura"
+    },
+    {
+        "nome": "Frozen 2",
+        "duracao": "1h 43min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.4/5",
+        "tema": "Animação, Fantasia"
+    },
+    {
+        "nome": "A Origem",
+        "duracao": "2h 28min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.8/5",
+        "tema": "Ficção Científica, Suspense"
+    },
+    {
+        "nome": "Shrek",
+        "duracao": "1h 30min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.9/5",
+        "tema": "Animação, Comédia"
+    },
+    {
+        "nome": "Encanto",
+        "duracao": "1h 42min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.7/5",
+        "tema": "Animação, Fantasia"
+    },
+    {
+        "nome": "It: A Coisa",
+        "duracao": "2h 15min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.2/5",
+        "tema": "Terror, Suspense"
+    },
+    {
+        "nome": "A Freira",
+        "duracao": "1h 36min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "3.9/5",
+        "tema": "Terror, Mistério"
+    },
+    {
+        "nome": "Invocação do Mal",
+        "duracao": "1h 52min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.5/5",
+        "tema": "Terror, Sobrenatural"
+    },
+    {
+        "nome": "Atividade Paranormal",
+        "duracao": "1h 26min",
+        "onde_assistir": "Paramount+",
+        "avaliacao": "4.0/5",
+        "tema": "Terror, Found Footage"
+    },
+    {
+        "nome": "Annabelle",
+        "duracao": "1h 39min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.1/5",
+        "tema": "Terror, Sobrenatural"
+    },
+    {
+        "nome": "O Exorcista",
+        "duracao": "2h 2min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.7/5",
+        "tema": "Terror, Clássico"
+    },
+    {
+        "nome": "Hereditário",
+        "duracao": "2h 7min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.6/5",
+        "tema": "Terror, Drama"
+    },
+    {
+        "nome": "Midsommar",
+        "duracao": "2h 28min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.3/5",
+        "tema": "Terror, Ritual"
+    },
+    {
+        "nome": "A Entidade",
+        "duracao": "1h 50min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.2/5",
+        "tema": "Terror, Mistério"
+    },
+    {
+        "nome": "A Bruxa",
+        "duracao": "1h 32min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.0/5",
+        "tema": "Terror, Sobrenatural"
+    },
+    {
+        "nome": "Amor nas Sombras",
+        "duracao": "1h 39min",
+        "onde_assistir": "Xvideos... Brincadeira, Netflix",
+        "avaliacao": "4.2/5",
+        "tema": "Romance Proibido"
+    },
+    {
+        "nome": "Desejos Ocultos",
+        "duracao": "1h 50min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.1/5",
+        "tema": "Drama Quente"
+    },
+    {
+        "nome": "Paixões Proibidas",
+        "duracao": "1h 47min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.0/5",
+        "tema": "Romance, Erótico Leve"
+    },
+    {
+        "nome": "Sedução Mortal",
+        "duracao": "1h 38min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.3/5",
+        "tema": "Mistério Picante"
+    },
+    {
+        "nome": "Beijos de Fogo",
+        "duracao": "1h 44min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.4/5",
+        "tema": "Romance Quente"
+    },
+    {
+        "nome": "Noites Secretas",
+        "duracao": "1h 41min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.2/5",
+        "tema": "Drama Secreto"
+    },
+    {
+        "nome": "Loucuras na Madrugada",
+        "duracao": "1h 35min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.1/5",
+        "tema": "Comédia Safada"
+    },
+    {
+        "nome": "Tentação Urbana",
+        "duracao": "1h 48min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.3/5",
+        "tema": "Drama Erótico"
+    },
+    {
+        "nome": "Jogo de Sedução",
+        "duracao": "1h 43min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.0/5",
+        "tema": "Romance Adulto"
+    },
+    {
+        "nome": "Conexões Proibidas",
+        "duracao": "1h 40min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.1/5",
+        "tema": "Paixão Proibida"
+    },
+    {
+        "nome": "Top Gun: Maverick",
+        "duracao": "2h 11min",
+        "onde_assistir": "Paramount+",
+        "avaliacao": "4.8/5",
+        "tema": "Ação, Drama"
+    },
+    {
+        "nome": "John Wick 3: Parabellum",
+        "duracao": "2h 11min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.7/5",
+        "tema": "Ação, Crime"
+    },
+    {
+        "nome": "Missão Impossível: Efeito Fallout",
+        "duracao": "2h 28min",
+        "onde_assistir": "Paramount+",
+        "avaliacao": "4.6/5",
+        "tema": "Ação, Espionagem"
+    },
+    {
+        "nome": "Velozes e Furiosos 9",
+        "duracao": "2h 25min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.2/5",
+        "tema": "Ação, Corrida"
+    },
+    {
+        "nome": "Gladiador",
+        "duracao": "2h 35min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.8/5",
+        "tema": "Ação, Histórico"
+    },
+    {
+        "nome": "Homem-Aranha: Sem Volta Para Casa",
+        "duracao": "2h 28min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.7/5",
+        "tema": "Ação, Aventura"
+    },
+    {
+        "nome": "Pantera Negra",
+        "duracao": "2h 14min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.6/5",
+        "tema": "Ação, Super-Heróis"
+    },
+    {
+        "nome": "Resgate",
+        "duracao": "1h 57min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.5/5",
+        "tema": "Ação, Suspense"
+    },
+    {
+        "nome": "The Batman",
+        "duracao": "2h 56min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.4/5",
+        "tema": "Ação, Noir"
+    },
+    {
+        "nome": "Deadpool",
+        "duracao": "1h 48min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.5/5",
+        "tema": "Ação, Comédia"
+    },
+    {
+        "nome": "Your Name",
+        "duracao": "1h 46min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.9/5",
+        "tema": "Romance, Fantasia"
+    },
+    {
+        "nome": "A Viagem de Chihiro",
+        "duracao": "2h 5min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.9/5",
+        "tema": "Fantasia, Aventura"
+    },
+    {
+        "nome": "O Castelo Animado",
+        "duracao": "1h 59min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.8/5",
+        "tema": "Fantasia, Romance"
+    },
+    {
+        "nome": "Akira",
+        "duracao": "2h 4min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.7/5",
+        "tema": "Ação, Sci-Fi"
+    },
+    {
+        "nome": "Kimi no Suizou wo Tabetai (I Want to Eat Your Pancreas)",
+        "duracao": "1h 48min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.8/5",
+        "tema": "Romance, Drama"
+    },
+    {
+        "nome": "Dragon Ball Super: Broly",
+        "duracao": "1h 40min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.6/5",
+        "tema": "Ação, Aventura"
+    },
+    {
+        "nome": "One Piece Film: Red",
+        "duracao": "1h 55min",
+        "onde_assistir": "Crunchyroll",
+        "avaliacao": "4.7/5",
+        "tema": "Aventura, Música"
+    },
+    {
+        "nome": "Naruto Shippuden: The Lost Tower",
+        "duracao": "1h 25min",
+        "onde_assistir": "Crunchyroll",
+        "avaliacao": "4.5/5",
+        "tema": "Aventura, Fantasia"
+    },
+    {
+        "nome": "Weathering with You",
+        "duracao": "1h 52min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.7/5",
+        "tema": "Fantasia, Romance"
+    },
+    {
+        "nome": "Jujutsu Kaisen 0",
+        "duracao": "1h 45min",
+        "onde_assistir": "Crunchyroll",
+        "avaliacao": "4.8/5",
+        "tema": "Ação, Sobrenatural"
+    },
+    {
+        "nome": "Titanic",
+        "duracao": "3h 15min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.7/5",
+        "tema": "Romance, Drama"
+    },
+    {
+        "nome": "A Culpa é das Estrelas",
+        "duracao": "2h 5min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.6/5",
+        "tema": "Romance, Drama"
+    },
+    {
+        "nome": "Diário de uma Paixão",
+        "duracao": "2h 3min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.8/5",
+        "tema": "Romance, Drama"
+    },
+    {
+        "nome": "Querido John",
+        "duracao": "1h 48min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.5/5",
+        "tema": "Romance, Drama"
+    },
+    {
+        "nome": "Um Lugar Chamado Notting Hill",
+        "duracao": "2h 4min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.6/5",
+        "tema": "Romance, Comédia"
+    },
+    {
+        "nome": "Com Amor, Simon",
+        "duracao": "1h 50min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.4/5",
+        "tema": "Romance, Adolescente"
+    },
+    {
+        "nome": "Amizade Colorida",
+        "duracao": "1h 49min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.3/5",
+        "tema": "Romance, Comédia"
+    },
+    {
+        "nome": "La La Land: Cantando Estações",
+        "duracao": "2h 8min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.7/5",
+        "tema": "Romance, Musical"
+    },
+    {
+        "nome": "Me Chame Pelo Seu Nome",
+        "duracao": "2h 12min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.5/5",
+        "tema": "Romance, Drama"
+    },
+    {
+        "nome": "Antes do Amanhecer",
+        "duracao": "1h 41min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.6/5",
+        "tema": "Romance"
+    },
+    {
+        "nome": "Quarto de Guerra",
+        "duracao": "2h",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.8/5",
+        "tema": "Fé, Superação"
+    },
+    {
+        "nome": "Desafiando Gigantes",
+        "duracao": "1h 51min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.7/5",
+        "tema": "Fé, Esporte"
+    },
+    {
+        "nome": "Deus Não Está Morto",
+        "duracao": "1h 53min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.6/5",
+        "tema": "Fé, Drama"
+    },
+    {
+        "nome": "Milagres do Paraíso",
+        "duracao": "1h 49min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.5/5",
+        "tema": "Fé, Milagre"
+    },
+    {
+        "nome": "Eu Só Posso Imaginar",
+        "duracao": "1h 50min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.6/5",
+        "tema": "Fé, Música"
+    },
+    {
+        "nome": "A Cabana",
+        "duracao": "2h 12min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.7/5",
+        "tema": "Fé, Drama"
+    },
+    {
+        "nome": "Paul, Apóstolo de Cristo",
+        "duracao": "1h 48min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.4/5",
+        "tema": "Religioso, Drama"
+    },
+    {
+        "nome": "O Céu é de Verdade",
+        "duracao": "1h 40min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.3/5",
+        "tema": "Fé, Esperança"
+    },
+    {
+        "nome": "Breakthrough: Milagre em Meio às Águas",
+        "duracao": "1h 56min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.5/5",
+        "tema": "Fé, Milagre"
+    },
+    {
+        "nome": "A Jornada de Jacqueline",
+        "duracao": "1h 32min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.2/5",
+        "tema": "Fé, Perseverança"
+    },
+    {
+        "nome": "À Procura da Felicidade",
+        "duracao": "1h 57min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.9/5",
+        "tema": "Superação, Família"
+    },
+    {
+        "nome": "Coach Carter: Treino Para a Vida",
+        "duracao": "2h 16min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.7/5",
+        "tema": "Esporte, Motivacional"
+    },
+    {
+        "nome": "A Teoria de Tudo",
+        "duracao": "2h 3min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.6/5",
+        "tema": "Biografia, Superação"
+    },
+    {
+        "nome": "Soul",
+        "duracao": "1h 40min",
+        "onde_assistir": "Disney+",
+        "avaliacao": "4.8/5",
+        "tema": "Animação, Reflexão"
+    },
+    {
+        "nome": "O Homem que Mudou o Jogo",
+        "duracao": "2h 13min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.6/5",
+        "tema": "Esporte, Superação"
+    },
+    {
+        "nome": "Um Sonho Possível",
+        "duracao": "2h 9min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.8/5",
+        "tema": "Fé, Superação"
+    },
+    {
+        "nome": "Até o Último Homem",
+        "duracao": "2h 19min",
+        "onde_assistir": "HBO Max",
+        "avaliacao": "4.9/5",
+        "tema": "Guerra, Fé"
+    },
+    {
+        "nome": "O Menino que Descobriu o Vento",
+        "duracao": "1h 53min",
+        "onde_assistir": "Netflix",
+        "avaliacao": "4.7/5",
+        "tema": "Fé, Inovação"
+    },
+    {
+        "nome": "Invencível",
+        "duracao": "2h 17min",
+        "onde_assistir": "Prime Video",
+        "avaliacao": "4.5/5",
+        "tema": "Guerra, Resistência"
+    },
+    {
+        "nome": "Homens de Honra",
+        "duracao": "2h 9min",
+        "onde_assistir": "Star+",
+        "avaliacao": "4.8/5",
+        "tema": "Motivacional, Racismo"
+    }
+]    
+
+
+

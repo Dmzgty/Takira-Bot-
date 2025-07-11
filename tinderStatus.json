@@ -1,0 +1,26 @@
+{
+  "553171917951@s.whatsapp.net": {
+    "nome": true,
+    "cidade": true,
+    "idade": true,
+    "hobby": true,
+    "genero": true,
+    "foto": true
+  },
+  "558892153207@s.whatsapp.net": {
+    "nome": true,
+    "cidade": true,
+    "idade": true,
+    "hobby": true,
+    "genero": true,
+    "foto": true
+  },
+  "559488150026@s.whatsapp.net": {
+    "nome": true,
+    "cidade": true,
+    "idade": true,
+    "hobby": true,
+    "genero": true,
+    "foto": true
+  }
+}

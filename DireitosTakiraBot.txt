@@ -1,0 +1,32 @@
+AVISO LEGAL DE PROPRIEDADE E USO  
+
+PROPRIEDADE INTELECTUAL E DIREITOS AUTORAIS  
+
+O Takira Bot, disponível no WhatsApp e outras plataformas, é uma criação e propriedade exclusiva de Dmzgty_Silent (doravante denominado "Proprietário"). Este software, incluindo seu código-fonte, design, funcionalidades e qualquer conteúdo associado, está protegido pelas leis de direitos autorais e propriedade intelectual vigentes, incluindo, mas não se limitando à Lei nº 9.609/98 (Lei de Software do Brasil), Lei nº 9.610/98 (Lei de Direitos Autorais) e regulamentações internacionais como a Convenção de Berna e o Acordo TRIPS da OMC.  
+
+PROIBIÇÕES EXPRESSAS  
+
+Fica estritamente proibido, sem autorização prévia e por escrito do Proprietário:  
+
+1. Copiar, modificar, distribuir ou comercializar o Takira Bot, no todo ou em parte, sob qualquer forma.  
+2. Engenharia reversa, descompilação ou desmontagem do código-fonte do bot.  
+3. Criar bots derivados ou similares baseados nas funcionalidades, nome ou identidade visual do Takira Bot.  
+4. Utilizar o bot para fins ilegais, incluindo spam, golpes, violação de privacidade ou qualquer atividade que infrinja leis locais ou internacionais.  
+5. Afirmar falsa propriedade ou associação com o Takira Bot ou seu Proprietário.  
+
+PENALIDADES LEGAIS  
+
+O descumprimento deste aviso sujeitará o infrator a:  
+
+- Ações judiciais civis e criminais, incluindo indenizações por danos materiais e morais.  
+- Notificação de remoção sob a Lei nº 12.965/14 (Marco Civil da Internet) e DMCA (Digital Millennium Copyright Act) em plataformas que hospedem conteúdo não autorizado.  
+- Bloqueio permanente do acesso ao bot e possíveis sanções por parte das plataformas de mensagens.  
+
+DECLARAÇÃO DE AUTORIA  
+
+O Takira Bot foi desenvolvido e é mantido unicamente por Dmzgty_Silent, que detém todos os direitos sobre sua estrutura, operação e marca. Qualquer uso não autorizado será tratado com rigor legal.  
+
+Para solicitações oficiais, parcerias ou denúncias de violação, entre em contato através do meio oficial fornecido pelo Proprietário.  
+
+Última atualização: [09/07/2025]  
+
